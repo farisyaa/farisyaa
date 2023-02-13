@@ -30,8 +30,8 @@
 <!-- Connect section -->
 ### 📫Connect with me  
 
-  <a href="https://discord.com/spellmaff#2468"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>
-  <a href="www.linkedin.com/in/farisya-fadzil-1306wp"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+  <a href="https://discord.com/users/spellmaff#2468"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>
+  <a href="https://www.linkedin.com/in/farisya-fadzil-1306wp"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
   <a href="https://www.instagram.com/farisyaf__/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   <a href="mailto:farisyaf.13@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
